@@ -24,6 +24,7 @@
           {
             "group": "Essentials",
             "pages": [
+              "essentials/Checking_for_work",
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
